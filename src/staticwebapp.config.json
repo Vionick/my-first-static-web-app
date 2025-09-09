@@ -1,5 +1,5 @@
 {
   "responseOverrides": {
-    "403": { "rewrite": "/403.html" 
+    "403": { "rewrite": "/403.html" }
   }
 }
